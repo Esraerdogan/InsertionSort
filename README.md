@@ -1,5 +1,5 @@
 # InsertionSort
-Insertion Sort ödevi
+Insertion Sort ödevi ->
 [Patika.dev](https://app.patika.dev/)
 
  # [22,27,16,2,18,6] -> Insertion Sort
