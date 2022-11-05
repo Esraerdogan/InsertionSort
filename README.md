@@ -10,7 +10,6 @@ Insertion Sort ödevi ->
 3- En başta olan sayıyla yerlerini değiştiriyoruz.
 4-Aynı işlemi kalan her eleman için yapıyoruz.
 Bu durumda aşamalar;
-
 [2,27,16,22,18,6]
 [2,6,16,22,18,27]
 [2,6,16,18,22,27]
